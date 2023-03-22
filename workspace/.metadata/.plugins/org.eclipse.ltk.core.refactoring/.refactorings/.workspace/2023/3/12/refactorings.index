@@ -2,3 +2,6 @@
 1679378714580	Delete resource 'chap08-redirect-lecture-source'
 1679378765389	Delete resource 'chap08-redirect-lecture-source'
 1679389376089	Delete resource 'chap11-filter-lecture-source'
+1679457381150	Delete resource 'chap14-el-jstl-lecture-source'
+1679457440171	Delete resource 'chap14-el-jstl-lecture-source/src/main/webapp/index.html'
+1679467635665	Delete resource 'chap14-el-jstl-lecture-source/src/main/java/com/greedy/el/controller/TestFourServlet.java'
